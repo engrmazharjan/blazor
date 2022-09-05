@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LogicWorms\\.nuget\\packages\\": {}
+    "C:\\Users\\MJ\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LogicWorms\\Desktop\\Blazor\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
+      "projectUniqueName": "D:\\Projects\\Blazor\\blazor\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "C:\\Users\\LogicWorms\\Desktop\\Blazor\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
-      "packagesPath": "C:\\Users\\LogicWorms\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LogicWorms\\Desktop\\Blazor\\BlazorApplication\\BlazorServer\\obj\\",
+      "projectPath": "D:\\Projects\\Blazor\\blazor\\BlazorApplication\\BlazorServer\\BlazorServer.csproj",
+      "packagesPath": "C:\\Users\\MJ\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Blazor\\blazor\\BlazorApplication\\BlazorServer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LogicWorms\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
